@@ -118,6 +118,8 @@ All services are pay-as-you-go. Refer to the AWS Pricing pages for up-to-date an
 2. **Confirm S3 bucket removal** in case any artifacts remain.  
 
 
-## GenAI Disclaimer
+## Disclaimers
+
+This repository is a personal project. This is not an official AWS code sample. Use at your own risk as stated by the LICENSE.
 
 The code in this repository was edited using generative AI tools.
