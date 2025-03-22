@@ -1,4 +1,4 @@
-# VueQuickDeploy CloudFormation Template
+# Vue Quick Deploy CloudFormation Template
 
 This CloudFormation template sets up a CodePipeline for deploying a Vue app to Amazon S3 and CloudFront. Below is a detailed description of all the resources created by this template.
 
